@@ -1,5 +1,5 @@
 {
-  "ndkFolder": "/Users/lixiling/Library/Android/sdk/ndk/20.0.5594570",
+  "ndkFolder": "/Users/Eric_Zhang/Library/Android/sdk/ndk/20.0.5594570",
   "messages": [
     {
       "level": "INFO",
@@ -15,31 +15,23 @@
     },
     {
       "level": "INFO",
-      "message": "sdkFolder is /Users/lixiling/Library/Android/sdk"
+      "message": "sdkFolder is /Users/Eric_Zhang/Library/Android/sdk"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/lixiling/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
+      "message": "Considering /Users/Eric_Zhang/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/lixiling/Library/Android/sdk/ndk/20.1.5948944 in SDK ndk folder"
+      "message": "Considering /Users/Eric_Zhang/Library/Android/sdk/ndk/20.0.5594570 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/lixiling/Library/Android/sdk/ndk/20.0.5594570 in SDK ndk folder"
+      "message": "Considering /Users/Eric_Zhang/Library/Android/sdk/ndk/21.0.6113669 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/lixiling/Library/Android/sdk/ndk/21.0.6113669 in SDK ndk folder"
-    },
-    {
-      "level": "INFO",
-      "message": "Rejected /Users/lixiling/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
-    },
-    {
-      "level": "INFO",
-      "message": "Found requested NDK version 20.0.5594570 at /Users/lixiling/Library/Android/sdk/ndk/20.0.5594570"
+      "message": "Found requested NDK version 20.0.5594570 at /Users/Eric_Zhang/Library/Android/sdk/ndk/20.0.5594570"
     }
   ]
 }

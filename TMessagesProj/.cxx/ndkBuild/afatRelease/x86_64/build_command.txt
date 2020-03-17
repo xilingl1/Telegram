@@ -1,14 +1,14 @@
-Executable : /Users/lixiling/Library/Android/sdk/ndk/20.0.5594570/ndk-build
+Executable : /Users/Eric_Zhang/Library/Android/sdk/ndk/20.0.5594570/ndk-build
 arguments : 
 NDK_PROJECT_PATH=null
-APP_BUILD_SCRIPT=/Users/lixiling/repos/Telegram/TMessagesProj/jni/Android.mk
-NDK_APPLICATION_MK=/Users/lixiling/repos/Telegram/TMessagesProj/jni/Application.mk
+APP_BUILD_SCRIPT=/Users/Eric_Zhang/Documents/Coursework_Code/265P/lasthomework/tests/Telegram/TMessagesProj/jni/Android.mk
+NDK_APPLICATION_MK=/Users/Eric_Zhang/Documents/Coursework_Code/265P/lasthomework/tests/Telegram/TMessagesProj/jni/Application.mk
 APP_ABI=x86_64
 NDK_ALL_ABIS=x86_64
 NDK_DEBUG=0
 APP_PLATFORM=android-16
-NDK_OUT=/Users/lixiling/repos/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatRelease/obj
-NDK_LIBS_OUT=/Users/lixiling/repos/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatRelease/lib
+NDK_OUT=/Users/Eric_Zhang/Documents/Coursework_Code/265P/lasthomework/tests/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatRelease/obj
+NDK_LIBS_OUT=/Users/Eric_Zhang/Documents/Coursework_Code/265P/lasthomework/tests/Telegram/TMessagesProj/build/intermediates/ndkBuild/afatRelease/lib
 NDK_APPLICATION_MK:=jni/Application.mk
 APP_PLATFORM:=android-16
 --jobs=8
